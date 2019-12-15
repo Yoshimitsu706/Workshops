@@ -2,4 +2,4 @@
 
 ## [Docs (Live)](https://docs.google.com/document/d/1bjklJh2B2vbJ5RgK0cO8n81p9XomHTGIvVkwe_Kc4GA/edit?usp=sharing)
 
-## [PDF (Snapshot)](https://github.com/SCC-Makerspace/Electronics-Workshops/blob/master/A-02%20Basic%20Soldering/Basic%20Soldering.pdf)
+## [PDF (Snapshot)](https://github.com/SCC-Makerspace/Workshops/blob/master/Electronics/A-02%20Basic%20Soldering/A-02%20Basic%20Soldering.pdf)
